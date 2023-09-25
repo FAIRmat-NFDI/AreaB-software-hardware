@@ -22,6 +22,9 @@ Open an issue if you would like us to update this list. Whether it be suggestion
 <tr><br>
 <th>IVAS / APSuite</th><th><a href="atomprobe.com" target="_top">atomprobe.com</a></th><th>Proprietary</th><th></th><th>Reconstruction and Visualisation for CAMECA atom probes</th><th>Visualization, Analysis</th><th></th><th></th><th></th><th>x</th><th>Java/C#</th><th>APSuite 6</th><th>Win</th><th>GUI, C# and Python scripting</th><th>tools coming with Win</th><th>2D graphs, 3D point clouds, 3D mesh data, volumetric rendering</th></tr><br>
 <tr><br>
+<th>Cameca extensions repository</th><th><a href="https://github.com/CamecaAPT/cameca-customanalysis-interface" target="_top">https://github.com/CamecaAPT/cameca-customanalysis-interface</a></th><th>Mixed</th><th></th><th>Extensions for APSuite</th><th>Analysis</th><th>x</th><th></th><th></th><th></th><th>C#</th><th></th><th>Win</th><th>GUI, C# and Python scripting</th><th></th><th></th></tr><br>
+<tr><br>
+
 <th>libatomprobe</th><th><a href="https://hg.sr.ht/~mycae/libatomprobe" target="_top">https://hg.sr.ht/~mycae/libatomprobe</a></th><th>Open Source</th><th></th><th>Base library for writing atom probe programs</th><th>Analysis</th><th>x</th><th></th><th></th><th>x</th><th></th><th>n/a, multiple tools in the repo</th><th>Win,Linux</th><th>CLI</th><th>n/a</th><th>2D graphs</th></tr><br>
 <tr><br>
 <th>paraprobe-toolbox</th><th><a href="https://gitlab.com/paraprobe/paraprobe-toolbox" target="_top">https://gitlab.com/paraprobe/paraprobe-toolbox</a></th><th>Open source</th><th></th><th>Parallelized tools for scalable processing of APT data</th><th>Analysis</th><th>x</th><th></th><th></th><th>x</th><th></th><th>v0.4.1</th><th>Linux, Win (via WSL2)</th><th>Scripting</th><th>self-contained package which includes NeXus/HDF5, CGAL, GammaPNC, Eigen, boost, Voro++</th><th>2D graphs via Python/Jupyter, 3D point clouds and 3D mesh data via HDF5/XDMF </th></tr><br>
