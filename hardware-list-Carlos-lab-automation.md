@@ -12,7 +12,7 @@
 | 2 | | transfer chamber? – pumping unit  | pressure gauge  | center one  | ok  |   |   | connect to PC (ethernet and serial port are present)
 | 3 | | spm chamber – cryogenic unit  | LHe level meter  | CryoVac Helium Depth Indicator  | slow mode not used?  |   | LHe level meter  | connect to PC (serial port is present)
 | 1 | | prep chamber – argon sputterer  | power source  | CHI-VAC ????  | no PC connectivity  | DCV 2kV and DCI 50mA and focus?  | sputterer control  | find manual. Replace? Talk to it somehow?
-| 1 | | prep chamber – argon sputterer  | valve  | mechanical valve  | manual only  | ??? needle valve  | let argon into prep ch  | replace with electric valve / find a way to control  |   |   | https://www.chi-vac.com/QW_Product/ENProductDetail?ProductId=28&FirstTypeId=3&flag=2
+| 1 | | prep chamber – argon sputterer  | valve  | mechanical valve  | manual only  | ??? needle valve  | let argon into prep ch  | replace with electric valve / find a way to control  |   | the only motorized leak valve i have found so far https://www.vatvalve.com/series/ultra-high-vacuum-all-metal-variable-leak-valve/59024-GEGG | https://www.chi-vac.com/QW_Product/ENProductDetail?ProductId=28&FirstTypeId=3&flag=2
 | 1 | | prep chamber – evaporator  | power source  | CHI-VAC ????  | no PC connectivity  | ???? with PID  | evaporation control  | find manual. Replace? Talk to it somehow?
 | 3 | | chamber separation  | valve  | mechanical valve  | manual only  | ???  | separation of the chambers  | replace with electric valve / find a way to control
 | 1 | | prep chamber – PEEM  | power source  | Emission microscope control  | software missing  | see manual  | main PEEM control unit  | talk to Florian first, then update the entry
