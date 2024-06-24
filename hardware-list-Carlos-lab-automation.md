@@ -1,7 +1,7 @@
 
 | priority | status | subsystem | type | current model | problem with current device | requirements/parameters | function | to do | possible options | comment |
 | -------- | ------ | --------- | ---- | ------------- | --------------------------- | ----------------------- | -------- | ----- | ---------------- | ------- |
-| 1 | | prep chamber – sample heater | current source | Topward TPS4000 | no PC connectivity | DC 30V 3A | sample heating | replace | | |
+| 1 | | prep chamber – sample heater | current source | Topward TPS4000 | no PC connectivity | DC 30V 3A | sample heating | replace | KORAD KD3005P / driver for CAMELS exists https://botland.store/laboratory-power-supply/5496-laboratory-power-supply-korad-kd3005p-0-30v-5a-usb-5907558240610.html | |
 | 1 | | prep chamber – sample heater | thermometer | Testo 635 | no PC connectivity | unknown thermopair installed | sample T readout | Calibration? Replace with multimeter? |
 | 3 | | prep chamber – sample heater | ammeter | generic handheld | no PC connectivity  | DC 3A | heating current readout | not needed if source is good | ignore? |
 | 2 | | prep chamber – safety | ammeter | generic handheld | no PC connectivity | DC 2mA limit | current to ground readout | replace | 
