@@ -12,7 +12,7 @@ part 1
 part 2
 | priority | status | subsystem | type | current model | problem with current device | requirements/parameters | function | to do | possible options | comment |
 | -------- | ------ | --------- | ---- | ------------- | --------------------------- | ----------------------- | -------- | ----- | ---------------- | ------- |
-| 1 | | spm chamber – pumping unit  | pressure gauge  | Gamma vacuum 4/2/6/p  | ok  |   | stm ch pressure readout  | connect to PC (ethernet and serial port are present)
+| 1 | | spm chamber – pumping unit  | pressure gauge  | Gamma vacuum 4/2/6/p  | ok  |   | stm ch pressure readout  | connect to PC (ethernet and serial port are present) | | might be useful for driver - not quite the right model though: https://www.tspi.at/2021/08/17/gammaionpumpcontrollerethernet.html#read-pressure-0x0b
 | 2 | | transfer chamber? – pumping unit  | pressure gauge  | center one  | ok  |   |   | connect to PC (ethernet and serial port are present)
 | 4 | | spm chamber – cryogenic unit  | LHe level meter  | CryoVac Helium Depth Indicator  | slow mode not used?  |   | LHe level meter  | connect to PC (serial port is present)
 | 1 | | prep chamber – argon sputterer  | power source  | CHI-VAC ????  | no PC connectivity  | DCV 2kV and DCI 50mA and focus?  | sputterer control  | find manual. Replace? Talk to it somehow?
