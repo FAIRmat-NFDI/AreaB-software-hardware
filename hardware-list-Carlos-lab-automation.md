@@ -20,6 +20,8 @@ part 2
 | 1 | | prep chamber – evaporator  | power source  | CHI-VAC ????  | no PC connectivity  | ???? with PID  | evaporation control  | find manual. Replace? Talk to it somehow? | Replace with KORAD + thermometry via ADC? | at least partially controllable via RS485 | RS485 (?) |
 | 4 | | chamber separation  | valve  | mechanical valve  | manual only  | ???  | separation of the chambers  | replace with electric valve / find a way to control
 
+Potential cheap solution for leak valve / needle valve: existing valve + stepper motor + USB control unit + power supply + mechanical parts. Cheap (approx 200 euro + mechanical parts), open source drivers exist (not for CAMELS, but should be easy enough to connect), should be relatively simple to build. Suggested options for motor: https://www.omc-stepperonline.com/nema-17-dual-shaft-stepper-motor-l-39mm-gear-ratio-50-1-high-precision-planetary-gearbox-9-5mm-rear-shaft-length-17hs15-1684d-hg50-ar3 or https://www.omc-stepperonline.com/nema-17-stepper-motor-l-40mm-gear-ratio-50-1-mg-series-planetary-gearbox-17hs15-1584s-mg50 For power supply: KORAD kd3005p, For controller: https://www.pololu.com/product/3140 For mechanical parts - same place as motors + make in the workshop here.
+
 part 3
 | priority | status | subsystem | type | current model | problem with current device | requirements/parameters | function | to do | possible options | comment | ports |
 | -------- | ------ | --------- | ---- | ------------- | --------------------------- | ----------------------- | -------- | ----- | ---------------- | ------- | ----- |
